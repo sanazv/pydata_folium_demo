@@ -1,4 +1,4 @@
-## pydata_folium_demo
+## PyData London Folium Lightening Demo
 A short demo of Foilum map visualization in python.
 
 A sample data is included with latitude, longitude of 200 points in London.
